@@ -1,0 +1,13 @@
+/vendor/
+/.idea/
+/.vscode/
+*.log
+*.cache
+
+# PHPUnit
+/phpunit.result.cache
+/phpunit_testdox.txt
+
+# Composer files
+/composer.lock
+/composer.phar
